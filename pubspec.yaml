@@ -49,6 +49,7 @@ dependencies:
   path_provider: ^2.0.15
   pdf_viewer_plugin: ^2.0.1
   firebase_database: ^10.2.3
+  #i removed one dependency easy_pdf_viewer this can be used in the page cse ->subject-> semone->internal->inteng->ques the following code get cmdded
 
 dev_dependencies:
   flutter_test:
